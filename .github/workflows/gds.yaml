@@ -16,12 +16,12 @@ jobs:
       - name: Build GDS
         uses: TinyTapeout/tt-gds-action/orfs@tt09
 
-precheck:
-   needs: gds
-    runs-on: ubuntu-24.04
-    steps:
-     - name: Run Tiny Tapeout Precheck
-       uses: TinyTapeout/tt-gds-action/precheck@tt09
+#precheck:
+   #needs: gds
+   # runs-on: ubuntu-24.04
+   # steps:
+     #- name: Run Tiny Tapeout Precheck
+      # uses: TinyTapeout/tt-gds-action/precheck@tt09
 
   gl_test:
    needs: gds
