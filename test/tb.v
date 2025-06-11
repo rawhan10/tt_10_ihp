@@ -25,9 +25,9 @@ module tb ();
   wire [7:0] uio_in, uio_out, uio_oe;
 
 `ifdef GL_TEST
-supply1 VPWR; // Define VPWR as a logic '1'
-  supply0 VGND; // Define VGND as a logic '0'
-    `endif
+  wire VPWR = 1'b1;
+  wire VGND = 1'b0;
+`endif
 
   // Replace tt_um_example with your module name:
   tt_um_10_ihp user_project (
