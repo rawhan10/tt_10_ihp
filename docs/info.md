@@ -4,7 +4,7 @@
 > 
 > We extend our special gratitude to **Dr. Uttara Kumari (Dean of Research and Development), Dr. Ravish Aradhya H V (HoD, ECE)**, **Dr. K S Geetha (Vice Principal)** and **Dr. K N Subramanya (Principal)** and **Rashtreeya Shikshana Samithi Trust** for their continuous encouragement and support, enabling us to achieve **TAPEOUT** in **Tiny Tapeout 10**.  
 >  
-> We are also deeply grateful to **Mahaa Santeep G (RVCE Alumni)** for his mentorship and invaluable guidance throughout the completion of this project.  
+> We are also deeply grateful t o **Mahaa Santeep G (RVCE Alumni)** for his mentorship and invaluable guidance throughout the completion of this project.  
   
 ## How it works
 
